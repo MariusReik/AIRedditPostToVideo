@@ -24,8 +24,6 @@ The process is broken down into several key modules:
 6. **Automate Posting**  
    Plans to automate the posting of generated videos to TikTok and YouTube Shorts.
 
-## TODO
-- Implement automation for posting generated videos to TikTok and YouTube Shorts.
 
 ## Usage
 - Create a `.env` file with your Reddit API credentials.
@@ -34,6 +32,3 @@ The process is broken down into several key modules:
   ```bash
   python main.py
   ```
-
-## License
-This project is licensed under the MIT License.
